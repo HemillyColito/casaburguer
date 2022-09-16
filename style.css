@@ -12,10 +12,11 @@ body {
 }
 
 .titulo-principal {
-	padding-left: 50px;
+	padding-left: 70px;
 }
 
 .titulo-centralizado {
+	font-size: 150%;
 	text-align: center
 }
 
@@ -24,7 +25,7 @@ p {
 }
 
 #missao {
-	font-size: 40px
+	font-size: 35px
 }
 
 em strong {
@@ -45,6 +46,8 @@ ul {
 	vertical-align: top;
 	width: 50%;
 	margin-right: 15%;
+	font-size: 250%;
+	line-height: 130%;
 }
 
 .imagembeneficios {
